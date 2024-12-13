@@ -8,6 +8,10 @@
 
 Nearby is a mobile application that connects users with local businesses through an exclusive benefits club platform. The app allows users to discover and redeem digital coupons at establishments near their location, providing a seamless experience for both customers and business partners.
 
+This project was developed as part of the NLW Pocket Mobile (Mobile Development Challenge) by [Rocketseat](https://rocketseat.com.br/).
+
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](<https://www.figma.com/design/qheBQewq4lNpMQiJqO723O/NLW-Pocket-Mobile-%E2%80%A2-Nearby-(Community)?node-id=0-1&t=ijDr8ex1aesWYyCe-1>)
+
 ## 🚀 Features
 
 - [x] 📍 **Location-Based Discovery**: Find deals and establishments near you
